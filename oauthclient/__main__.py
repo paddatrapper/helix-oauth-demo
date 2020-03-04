@@ -3,7 +3,7 @@ import json
 import requests
 import os
 
-API_HOST = 'http://localhost:8090'
+API_HOST = 'http://ec2-18-222-116-160.us-east-2.compute.amazonaws.com'
 OAUTH_TOKEN_ENDPOINT = '/oauth/token/'
 API_ENDPOINT = '/api/v2_1/properties/'
 
